@@ -48,3 +48,6 @@ README.md
 - Multi-face Detection
 - Emotion Analytics Dashboard
 - Emotion History Tracking
+
+## My Project Demo Video
+https://youtu.be/-geGepla0aY?si=koBSuExPWLyxs4N1
